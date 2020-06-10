@@ -146,6 +146,10 @@
 	.feature h5 {
 	    margin: 20px 0px;
 	}
+	.join-us .btn-join-us {
+	    margin-top: 20px;
+	    margin-left: 0px;
+	}
 	.join-us h2 {
 	    font-size: 22px;
 	}
@@ -158,6 +162,12 @@
 	}
 	.banner-3 p {
 	    padding: 0;
+	}
+	.contact {
+	    text-align: center;
+	}
+	.contact .right .underline {
+	    margin: 30px auto;
 	}
 	.contact .right h3 {
 	    font-size: 30px;
@@ -217,17 +227,22 @@
 	.banner-2 p {
 	    font-size: 12px;
 	}
+	.our-price .box {
+	    margin: 20px;
+	}
 	.our-price .upper-part h3 {
 	    font-size: 25px;
 	}
 	.our-price .upper-part p {
 	    font-size: 13px;
 	}
-	.our-price .box button {
-	    left: 33%;
-	}
+
 	.feature .box {
 	    text-align: center;
+	}
+	.join-us .btn-join-us {
+	    margin-left: 0px;
+	    margin-top: 20px;
 	}
 	.feature h5 {
 	    margin: 20px 0px;
@@ -245,7 +260,6 @@
 	.update .box {
 	    text-align: center;
 	}
-	}
 	.update .box h5 {
 	    font-size: 19px;
 	}
@@ -259,6 +273,9 @@
 	.banner-3 .btn-banner-3 {
 	    margin: 20px 0px;
 	}
+	.contact {
+	    text-align: center;
+	}
 	.contact .left img {
 	    height: 400px;
 	}
@@ -269,6 +286,9 @@
 	.contact .right p {
 	    font-size: 13px;
 	}
+	.contact .right .underline {
+	    margin: 30px auto;
+	}
 	footer .left {
 	    text-align: center;
 	}
@@ -276,4 +296,5 @@
 		float: none;
 		text-align: center;
 	}
+	
 }
