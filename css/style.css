@@ -288,52 +288,22 @@ header .navbar .nav-item.active .nav-link{
     color: #5a5a5a;
 }
 .our-price .content {
-    margin-top: 60px;
+    margin-top: 30px;
 }
-.btn-stand{
-    background: #e4dede;
+.mod-btn{
+    margin-top: -22px;
+    z-index: 4;
+    position: relative;
+
+}
+.box .btn-highlight {
+    background: #E4DEDE;
     padding: 12px 50px;
-    border-radius: 25px;
-    font-weight: 700;
-    color: #a4a4a4;
-    position: absolute;
-    top: 150px;
-    left: 45px;
-    border: 0;
+    border-radius: 22px;
+    border: none;
 }
-.btn-bus{
-    background: #e4dede;
-    padding: 12px 50px;
-    border-radius: 25px;
-    font-weight: 700;
-    color: #a4a4a4;
-    position: absolute;
-    top: 150px;
-    left: 45px;
-    border: 0;
-}
-.btn-pre{
-    background: #e4dede;
-    padding: 12px 50px;
-    border-radius: 25px;
-    font-weight: 700;
-    color: #a4a4a4;
-    position: absolute;
-    top: 150px;
-    left: 45px;
-    border: 0;
-}
-.btn-uni{
-    background: #e4dede;
-    padding: 12px 50px;
-    border-radius: 25px;
-    font-weight: 700;
-    color: #a4a4a4;
-    position: absolute;
-    top: 150px;
-    left: 45px;
-    border: 0;
-}
+
+
 .our-price .box .btn-price{
     background: #ed145b;
     color: #fff;
